@@ -1,4 +1,4 @@
-- # Bigfoot
+# Bigfoot
 # EightSecond Vlogger
 
 EightSecond Vlogger is a conversational, low-code workspace for planning and rendering 8-second character vlog scenes with Vertex AI (Veo 3). It scaffolds project setup, character continuity, prompt assembly, and a lightweight render queue with mock rendering for demos.
